@@ -9,8 +9,8 @@ import { EventProvider } from './lib/event-bus';
 import { App } from './containers/App';
 
 import 'antd/dist/antd.css';
-import './index.css';
-import './teams.css';
+import './css/index.css';
+import './css/teams.css';
 
 import * as serviceWorker from './serviceWorker';
 
